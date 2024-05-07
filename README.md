@@ -10,5 +10,5 @@
   <li>Selenium IDE</li>
 </ul>
 <H2>Registro do Teste feito</H2>
-<a href:"https://youtu.be/pbfJNnzsUlY"> Teste Deezer </a>
+<a href="https://youtu.be/pbfJNnzsUlY"> Teste Deezer </a>
 
